@@ -1,0 +1,5 @@
+owner = "openai"
+repo = "openai-python"
+start_tag = "v1.86.0"
+end_tag = "v2.6.0"
+out = "releases_v1.86.0..v2.6.0.md"
